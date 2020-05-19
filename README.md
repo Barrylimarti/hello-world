@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+yo bro, what's up dude!How you doin? This is github
